@@ -1,3 +1,32 @@
+html{
+    font-size: 15px;
+    font-family: 'Metal Mania', cursive;
+}
+
 p {
     color: red;
+    width: 500px;
+    border: 1px solid black;
+    /* As a general rule text appears red and has a black box */
+}
+
+strong {
+    color: royalblue;
+    /* All bolded text appears in blue*/
+}
+
+#Unique-ID {
+    color: aquamarine;
+    /* Special case chang of colour */
+
+}
+
+a:hover {
+    color: chartreuse;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
 }
