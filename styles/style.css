@@ -59,3 +59,23 @@ img {
     width: 100%;
     height: auto;
 }
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
+
+#navLine {
+
+    
+    float: left;
+
+    
+  }
+
+  #navA{
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
